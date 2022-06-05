@@ -1,0 +1,128 @@
+{
+    "queries": [
+        {
+            "q": "hello",
+            "a": "hello there"
+        },
+        {
+            "q": "how are you",
+            "a": "i am fine, thank you. how are you {userName}"
+        },
+        {
+            "q": "fine",
+            "a": "well, that's great"
+        },
+        {
+            "q": "good",
+            "a": "well, that's great"
+        },
+        {
+            "q": "what is your name",
+            "a": "my name is {assistantName}"
+        },
+        {
+            "q": "who are you",
+            "a": "I am {assistantName}, your voice assistant."
+        },
+        {
+            "q": "who made you",
+            "a": "Unknown."
+        },
+        {
+            "q": "who created you",
+            "a": "Unknown."
+        },
+        {
+            "q": "who am i",
+            "a": "You are {userName}, my creator."
+        },
+        {
+            "q": "why are you created",
+            "a": "I am created to make your life easier."
+        },
+        {
+            "q": "why do you exist",
+            "a": "You should know why I exist because you are already using me."
+        },
+        {
+            "q": "what is love",
+            "a": "Sorry I can't answer that. I am yet to feel it."
+        },
+        {
+            "q": "i love you",
+            "a": "It's hard for me to understand love."
+        },
+        {
+            "q": "powerpoint",
+            "a": "Opening powerpoint."
+        },
+        {
+            "q": "excel",
+            "a": "Opening excel."
+        },
+        {
+            "q": "writer",
+            "a": "Opening writer."
+        },
+        {
+            "q": "time",
+            "a": "The current time is"
+        },
+        {
+            "q": "vs code",
+            "a": "Opening vscode"
+        },
+        {
+            "q": "joke",
+            "a": "Sure. In a moment!"
+        },
+        {
+            "q": "wikipedia",
+            "a": "Searching Wikipedia. Please wait a while.."
+        },
+        {
+            "q": "shutdown system",
+            "a": "Are you sure?"
+        },
+        {
+            "q": "restart system",
+            "a": "Are you sure?"
+        },
+        {
+            "q": "cancel shutdown",
+            "a": "Aborting Shutdown.."
+        },
+        {
+            "q": "cancel restart",
+            "a": "Aborting Restart.."
+        },
+        {
+            "q": "open youtube",
+            "a": "Opening youtube.."
+        },
+        {
+            "q": "open google",
+            "a": "Opening Google.."
+        },
+        {
+            "q": "open stack overflow",
+            "a": "Opening stackoverflow.."
+        },
+        {
+            "q": "search youtube",
+            "a": "Searching {searchText} on youtube.."
+        },
+        {
+            "q": "search google",
+            "a": "Searching {searchText} on google.."
+        },
+        {
+            "q": "search stackoverflow",
+            "a": "Searching {searchText} on stack overflow.."
+        },
+        {
+            "q": "take a note",
+            "a": "What should I write?"
+        }
+    ]
+}
